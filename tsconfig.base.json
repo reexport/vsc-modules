@@ -12,14 +12,6 @@
 		"strictBindCallApply": true,
 		"strictNullChecks": true,
 		"forceConsistentCasingInFileNames": true,
-		"baseUrl": "./src",
-		"types": [
-			"keytar",
-			"minimist",
-			"mocha",
-			"semver",
-			"sinon",
-			"winreg"
-		]
+		"baseUrl": "./src"
 	}
 }

@@ -5,7 +5,8 @@
   "license": "MIT",
   "main": "./out/main",
   "scripts": {
-    "compile": "tsc"
+    "compile": "tsc",
+    "prepublishOnly": "npm run compile"
   },
   "files": [
     "lib"
